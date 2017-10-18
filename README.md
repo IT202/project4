@@ -10,15 +10,17 @@ Check the requirements and the hints, and ask questions in Piazza.
 
 2. Game includes a harm character and a benefit character, each of which "falls" from the top of the game canvas.
 
-3. Characters reaching the bottom of the game canvas should reappear at the top of the canvas, in a random x position.
+3. One of your characters must be an image.
 
-4. Collision between the player and the harm reduces the number of lives left.
+4. Characters reaching the bottom of the game canvas should reappear at the top of the canvas, in a random x position.
 
-5. Collision between the player and the benefit increases the score.
+5. Collision between the player and the harm reduces the number of lives left.
 
-6. The score and the number of lives left should be displayed at the top of the game canvas.
+6. Collision between the player and the benefit increases the score.
 
-7. When the player loses their last life, the animation stops and "Game Over" is displayed on the screen in large, red letters.
+7. The score and the number of lives left should be displayed at the top of the game canvas.
+
+8. When the player loses their last life, the animation stops and "Game Over" is displayed on the screen in large, red letters.
 
 
 ## Hints
